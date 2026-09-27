@@ -1,0 +1,5 @@
+com\mentorbridge\payroll\PayrollTest.class
+com\mentorbridge\payroll\PayrollServiceTest.class
+com\mentorbridge\payroll\PermanentEmployeeTest.class
+com\mentorbridge\payroll\ContractEmployeeTest.class
+com\mentorbridge\payroll\ManagerTest.class
